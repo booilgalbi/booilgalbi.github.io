@@ -1255,9 +1255,9 @@ button:focus {
 /* Book Table Area css
 ============================================================================================ */
 .book_table_inner .table_img {
-  padding-top: 80px;
-  padding-bottom: 80px;
-  margin-left: -98px; }
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-left: 0px; }
 .book_table_inner .col-lg-5 {
   vertical-align: middle;
   align-self: center; }
@@ -1265,7 +1265,7 @@ button:focus {
 .table_form {
   background: #f8f8f9;
   height: 100%;
-  margin-right: -15px;
+  margin-right: 0px;
   padding-left: 60px;
   padding-top: 65px;
   padding-right: 150px; }
