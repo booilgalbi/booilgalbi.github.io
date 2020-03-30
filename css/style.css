@@ -468,7 +468,7 @@ button:focus {
     transform: translateX(-50%) translateY(-50%);
     z-index: 5;
     opacity: 0;
-    transition: all 4s ease; }
+    transition: all 0s ease; }
   .home_slider .swiper-slide.swiper-slide-active .slider_text {
     opacity: 1; }
   .swiper-button-prev {
@@ -599,7 +599,7 @@ button:focus {
       position: relative; }
       .banner_area .banner_inner .banner_content .page_link a:before {
         content: "\e87a";
-        font-family: 'Linearicons-Free';
+        /* font-family: 'Linearicons-Free'; */
         position: absolute;
         right: -25px;
         top: 50%;
