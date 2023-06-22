@@ -1984,14 +1984,16 @@ h6 {
   background-repeat: no-repeat !important;
   background-position: center center !important;
   background-size: cover !important;
-  height: 200px;
+  height: 350px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s; }
 
 .single-gallery-image:hover {
-  opacity: .8; }
+  opacity: .8; 
+  transform: scale(1.05);
+}
 
 .list-style {
   width: 14px;
